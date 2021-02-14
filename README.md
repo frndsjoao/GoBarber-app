@@ -30,7 +30,7 @@
 ## 📄 About the project
 
 Go to **api** here: [GoBarber Rest API](https://github.com/frndsjoao/GoBarber-backend)</br>
-Go to **mobile client** here: [GoBarber Mobile](https://github.com/frndsjoao/GoBarber-app)</br>
+Go to **web client** here: [GoBarber Web](https://github.com/frndsjoao/GoBarber-web)</br>
 
 GoBarber is an application/web that makes it possible to register barbers and control customer schedules. The schedule is done by the mobile application, while the web take care of displaying it for the barber.
 
@@ -82,11 +82,3 @@ $ yarn ios
 ## 📝 License
 
 Not specified.
-
-
-
-
-
-
-
-
